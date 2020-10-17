@@ -4,5 +4,5 @@
 # rebuild or change it in any way
 
 echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
-docker tag flask:latest nickrusso42518/flask:latest
-docker push nickrusso42518/flask:latest
+docker tag flask:latest ea991/flask:latest
+docker push ea991/flask:latest

@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: "web"
-      image: "nickrusso42518/flask:latest"
+      image: "ea991/flask:latest"
       ports:
         - containerPort: 5000
           protocol: "TCP"
