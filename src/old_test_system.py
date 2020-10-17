@@ -3,7 +3,7 @@
 """
 Author: Nick Russo
 Purpose: Using pytest for simple system testing to interact
-with dockerized web servers within a CI/CD pipeline.
+with dockerized web servers within a CI/CD pipeline.  Change to run build again.
 """
 
 import requests
